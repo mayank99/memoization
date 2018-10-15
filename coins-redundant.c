@@ -1,3 +1,4 @@
+/** # of ways an amount can be broken down (without memoization) */
 #include <stdio.h>
 #include <stdlib.h>
 
