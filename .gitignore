@@ -1,0 +1,11 @@
+*
+!*/
+!*.*
+*.o
+testing
+.testing
+.vscode
+amaze
+*.txt
+!makefile
+a.out
